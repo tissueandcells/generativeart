@@ -1,0 +1,24 @@
+# Generative Art Project
+
+This project explores the creation of generative art using Python and Adobe Photoshop. It demonstrates the integration of algorithmic design and digital enhancement tools to produce visually compelling and thematically rich artworks.
+
+## Features
+- **Fractal Spiral Design**: Recursive algorithms to generate spiral patterns.
+- **Random Rectangle Compositions**: Geometric intersections inspired by dystopian themes.
+- **3D Surface Visualization**: Dynamic 3D plots representing wave functions.
+- **Random Line Art**: Structured randomness in line-based art.
+- **Geometric Intersection Patterns**: Clean and abstract visual compositions.
+
+## Outputs
+The generated images reflect themes such as dystopia, post-apocalyptic landscapes, and artistic abstraction. Outputs can be found in the `outputs/` directory.
+
+## Requirements
+- Python 3.7+
+- Libraries:
+  - `matplotlib`
+  - `numpy`
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt

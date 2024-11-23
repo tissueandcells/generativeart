@@ -32,3 +32,4 @@ for _ in range(15):
 
 plt.savefig('../outputs/fractal_design_300dpi.png', dpi=300, bbox_inches='tight', pad_inches=0)
 plt.show()
+

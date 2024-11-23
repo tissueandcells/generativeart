@@ -1,0 +1,16 @@
+GenerativeArt/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── src/
+│   ├── fractal_spiral.py
+│   ├── random_rectangles.py
+│   ├── geometric_intersections.py
+│   ├── random_lines_art.py
+│   ├── 3d_surface_plot.py
+├── outputs/
+│   ├── random_lines_300dpi.png
+│   ├── fractal_design_300dpi.png
+│   ├── visual3.png
+│   ├── visual4.png
+└── .gitignore
